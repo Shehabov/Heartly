@@ -63,8 +63,13 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 	- `cardiovascular disease.csv`: the dataset provided by IEEE and used for the project.
 	- `EDA - Heartly.ipynb`: a notebook that contains advanced data analysis and visualization to uncover the underlying reasons for the heart attack based on the observations and the attributes of the dataset.
  
+- Machine learning model:
+	- `Machine Learning Model.ipynb`: a notebook that contains the classification model used for this project (KNN) along with the validation and evaluation of it.
 
-
+- Web application:
+	- pickleFiles:
+	              - `cardiovascular disease.csv`: the dataset provided by IEEE and used for the project. 
+	
 
 - `Heart_Disease_Classification.ipynb`: contains the code of data exploration, preparation and modeling. 
 - `model.pkl`: the classification model. 
