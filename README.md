@@ -1,4 +1,11 @@
-# Heartly
+<h1 align="center">
+  <br>
+  <a href="https://imgur.com/a/ccj88sU"><img src="https://imgur.com/i6jVtjj" alt="Markdownify" width="200"></a>
+  <br>
+  Heartly
+  <br>
+</h1>
+
 
 ## Overview
 Heart attack is the second cause of disability in the world. CVD is rapidly increasing day by day, as stated by WHO. Cardiovascular-related problems cause 31% of worldwide deaths. Thus, it's increasingly necessary to be able to identify health habits and symptoms that contribute to heart attacks.
