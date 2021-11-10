@@ -68,7 +68,7 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 
 - Web application:
 	- pickleFiles: <br>
-	              - `model.pkl`: The converted sklearn model to a configuration file.
+	              - `model.pkl`: The converted sklearn model to a configuration file. <br>
 	              - `scaler.pkl`: The saved configuration of the pre-processed data.
 	- `static`: The design files (CSS, JavaScript, SVGs) of the system. 
 
