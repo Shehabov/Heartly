@@ -71,5 +71,7 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 	              - `model.pkl`: The converted sklearn model to a configuration file. <br>
 	              - `scaler.pkl`: The saved configuration of the pre-processed data.
 	- static: The design files (CSS, JavaScript, SVGs) of the system. 
-
-
+	- templates: <br>
+	              - `index.html`: The informational website along with the form that's used for prediction. <br>
+	              - `output.html`: The page that loads after the prediction is done.
+	- app.py: Flask API that bind between the classification model and the web page. 
