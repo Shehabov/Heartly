@@ -8,4 +8,12 @@ Heart attack is the second cause of disability in the world. CVD is rapidly incr
 ## Problem Statement
 In a statement,
 
-> Given clinical parameters about a patient, can we understand the most correlated attributes and reasons for heart disease?
+> Given clinical parameters about a patient, can we understand the most correlated attributes and reasons for heart disease? can we also build an accessible and usable web app that allows users to key in their data and see if they have a risk of heart attack or not?
+
+## Installation
+
+```
+Install pip requirements
+```
+pip install -r requirements.txt
+```
