@@ -67,7 +67,7 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 	- `Machine Learning Model.ipynb`: a notebook that contains the classification model used for this project (KNN) along with the validation and evaluation of it.
 
 - Web application:
-	- pickleFiles:
+	- pickleFiles: <br>
 	              -- `cardiovascular disease.csv`: the dataset provided by IEEE and used for the project. 
 	
 
