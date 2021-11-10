@@ -74,4 +74,4 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 	- templates: <br>
 	              - `index.html`: The informational website along with the form that's used for prediction. <br>
 	              - `output.html`: The page that loads after the prediction is done.
-	- app.py: Flask API that bind between the classification model and the web page. 
+	- `app.py`: the Flask API that integrates the classification model with the web page and the output. 
