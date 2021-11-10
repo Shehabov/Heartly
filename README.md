@@ -68,7 +68,7 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 
 - Web application:
 	- pickleFiles:
-	              - `cardiovascular disease.csv`: the dataset provided by IEEE and used for the project. 
+	              -- `cardiovascular disease.csv`: the dataset provided by IEEE and used for the project. 
 	
 
 - `Heart_Disease_Classification.ipynb`: contains the code of data exploration, preparation and modeling. 
