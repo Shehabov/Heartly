@@ -56,12 +56,7 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 ## Files
 
 ### Prototype
-- `data.csv`: the dataset file.
-- `Heart_Disease_Classification.ipynb`: contains the code of data exploration, preparation and modeling. 
-- `model.pkl`: the classification model. 
-- `heart_disease_app.py`: Flask API that bind between the classification model and the web page. 
-- templates:
-	- `Heart Disease Classifier.html`: a web page that contains a form for heart disease testing. 
+- `hearty.xd`: Contains the wireframe, the design system, and the prototype of 5 different device sizes.
 
 ### System Files
 - `data.csv`: the dataset file.
