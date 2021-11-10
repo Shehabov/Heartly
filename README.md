@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://imgur.com/a/ccj88sU"><img src="https://imgur.com/i6jVtjj.png" title="source: imgur.com" alt="Heartly" width="200" /></a>
+  <a href="https://imgur.com/v7NqY7R"><img src="https://imgur.com/v7NqY7R.jpg" title="source: imgur.com" alt="Heartly" width="200" /></a>
 </h1>
 
 
