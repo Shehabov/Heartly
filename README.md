@@ -9,7 +9,7 @@ Heart attack is the second cause of disability in the world. CVD is rapidly incr
 ## Problem Statement
 In a statement,
 
-> Given clinical parameters about a patient, can we understand the most correlated attributes and reasons for heart disease? can we also build an accessible and usable web app that allows users to key in their data and see if they have a risk of heart attack or not?
+> Given clinical parameters about a patient, can we understand the most correlated attributes and reasons for heart disease? can we also build an accessible and usable web app that allows users to key in their data and see if they have a risk of having a heart attack or not?
 
 
 ## Installation
@@ -25,3 +25,15 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Data
+This dataset was created by combining different datasets already available independently but not combined before. In this dataset, 5 heart datasets are combined over 11 common features by IEEE scholars which makes it the largest heart disease dataset available so far for research purposes. The five datasets used for its curation are:
+
+- Cleveland: 303 observations
+- Hungarian: 294 observations
+- Switzerland: 123 observations
+- Long Beach VA: 200 observations
+- Stalog (Heart) Data Set: 270 observations
+
+The Dataset Can be accessed directly from IEEE Datasets. <br>
+https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
