@@ -68,11 +68,8 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
 
 - Web application:
 	- pickleFiles: <br>
-	              -- `cardiovascular disease.csv`: the dataset provided by IEEE and used for the project. 
-	
+	              - `model.pkl`: The converted sklearn model to a configuration file.
+	              - `scaler.pkl`: The saved configuration of the pre-processed data.
+	- `static`: The design files (CSS, JavaScript, SVGs) of the system. 
 
-- `Heart_Disease_Classification.ipynb`: contains the code of data exploration, preparation and modeling. 
-- `model.pkl`: the classification model. 
-- `heart_disease_app.py`: Flask API that bind between the classification model and the web page. 
-- templates:
-	- `Heart Disease Classifier.html`: a web page that contains a form for heart disease testing.
+
