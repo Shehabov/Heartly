@@ -10,7 +10,12 @@ Heart attack is the second cause of disability in the world. CVD is rapidly incr
 <center><img src='https://i.pinimg.com/originals/87/45/76/874576ebe081d0b3cc15c1a519dcb6c1.gif'></center>
 
 ## Demo
-![screenshot](https://imgur.com/1EvXf6t.gif)
+![screenshot](https://imgur.com/1EvXf6t.gif style=centerme)
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 ## Problem Statement
 In a statement,
